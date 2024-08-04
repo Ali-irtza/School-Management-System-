@@ -1,4 +1,4 @@
-Student Grades Management System
+Student Grades Management System:
 This repository contains the code for a basic Student Grades Management System developed as a semester final project for the 1st semester in the BSCS program. The program is written in C++ and demonstrates basic concepts of arrays, loops, sorting and conditional statements.
 
 Project Overview:
